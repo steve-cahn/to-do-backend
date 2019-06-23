@@ -1,0 +1,9 @@
+{
+	"email": {
+		"email": "",
+		"pass": ""
+	},
+	"db": "mongodb://localhost:27017/toDoApp",
+	"port": "3900",
+	"proxy-url": "http://localhost:3000"
+}

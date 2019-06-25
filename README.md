@@ -1,5 +1,7 @@
 # to-do-backend
-This a to-do webapp which is part of https://github.com/steve-cahn/to-do-client. And the website is: http://todo.stevecahn.net
+Website: http://todo.stevecahn.net
+
+This a to-do webapp which is part of https://github.com/steve-cahn/to-do-client.
 
 This is a to do app which allows user to create an account or login to their existing account. Users can then add, mark as complete, or delete a task.
 

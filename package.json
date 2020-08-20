@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@hapi/joi": "^15.0.1",
 		"aws-sdk": "^2.466.0",
-		"bcrypt": "^3.0.6",
+		"bcrypt": "^5.0.0",
 		"config": "^3.1.0",
 		"connect-mongo": "^2.0.3",
 		"cors": "^2.8.5",
